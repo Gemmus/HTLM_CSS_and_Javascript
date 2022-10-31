@@ -1,0 +1,33 @@
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+html {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: chartreuse;
+}
+
+li a {
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: chocolate;
+}
+
+li :hover::after {
+    content: ' @'
+}
+
+main {
+    background-color: darkseagreen;
+}
+
+footer {
+    background-color: gray;
+}
