@@ -65,3 +65,7 @@ section {
     padding: 1rem;
     box-sizing: border-box;
 }
+
+figcaption {
+    padding: 1rem;
+}
