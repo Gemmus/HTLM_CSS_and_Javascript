@@ -57,3 +57,11 @@ main {
     display: flex;
     flex-wrap: wrap;
 }
+
+section {
+    color: crimson;
+    background-color: #0b36a6;
+    width: calc(100% / 3);
+    padding: 1rem;
+    box-sizing: border-box;
+}
