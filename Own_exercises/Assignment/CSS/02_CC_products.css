@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Playfair Display", serif;
+    }
+.header{
+    min-height: 220vh;
+    width: 100%;
+    background-image: url(../Images/animated_background.svg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+nav {
+    display: flex;
+    padding: 2% 6% 1% 2%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F2E4DC;
+    color: #4f3e31;
+}
+nav img {
+    width: 4rem;
+}
+nav pre {
+    font-size: 1rem;
+    padding: 0.4rem 0 0 0.5rem;
+}
+.nav-links {
+    flex: 1;
+    text-align: right;
+}
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 12px 12px;
+    position: relative;
+}
+.nav-links ul li a {
+    color: #403129;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 12px 22px;
+}
+.nav-links ul li::after{
+    content: '';
+    width: 0;
+    height: 2px;
+    background-color: #403129;
+    display: block;
+    margin: auto;
+    transition: 1.5s;
+}
+.nav-links ul li:hover::after{
+    width: 100%;
+    background: #CFCCB9;
+}
+.text-box {
+    height: 80%;
+    width: 90%;
+    color: #403129;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.text-box h1 {
+    font-size: 3rem;
+    padding: 1rem 0 1.4rem 2rem;
+    text-align: left;
+}
+.text-box img{
+    width: 60%;
+    margin: 0 1rem 0 1rem;
+    border: 2px #73503C;
+    border-radius: 8px;
+}
+.text-box p {
+    font-size: 1.8rem;
+    padding: 2rem 0 0 0;
+}
+.listing {
+    position: relative;
+    top: 46rem;
+    padding: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    color: #4f3e31;
+    display: flex;
+    flex-wrap: wrap;
+    height: 4rem;
+    border-spacing: 1rem;
+    margin: 0 1rem 0 1rem;
+    border: 2px #73503C;
+    border-radius: 8px;
+}
+article {
+    width: calc(90% / 3);
+    padding: 1rem;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #F2E4DC;
+}
+.listing h2 {
+    font-size: 1.8rem;
+    padding: 1.2rem;
+}
+.listing img {
+    margin: 0 1rem 0 1rem;
+    border: 2px #73503C;
+    border-radius: 8px;
+}
+.listing p {
+    font-size: 1rem;
+    padding: 2rem 0 0 0;
+}
+@media screen and (max-width: 796px) {
+    .text-box h1{
+        font-size: 2rem;
+    }
+    .text-box p {
+        font-size: 1rem;
+    }
+    .nav-links ul li {
+        display: block;
+    }
+    .listing{
+        top: 20rem;
+    }
+    article {
+        width: 100%;
+    }
+    .listing h2 {
+        font-size: 1rem;
+    }
+    .listing figcaption {
+        font-size: 0.6rem;
+    }
+    .listing img {
+        width: 60%;
+    }
+    .listing p {
+        font-size: 0.8rem;
+    }
+}

@@ -5,7 +5,7 @@
     }
 
 .header{
-    min-height: 180vh;
+    min-height: 140vh;
     width: 100%;
     background-image: url(../Images/animated_background.svg);
     background-position: center;
@@ -57,7 +57,7 @@ nav pre {
     background: #CFCCB9;
 }
 .text-box {
-    height: 60%;
+    height: 75%;
     width: 60%;
     color: #403129;
     position: absolute;
@@ -66,19 +66,19 @@ nav pre {
     transform: translate(-50%,-50%);
     text-align: center;
 }
+.text-box h1 {
+    font-size: 3rem;
+    padding: 3rem;
+}
 .text-box img{
     width: 100%;
     margin: 0 1rem 0 1rem;
     border: 2px #73503C;
     border-radius: 8px;
 }
-.text-box h1 {
-    font-size: 3rem;
-    padding: 3rem
-}
 .text-box p {
     font-size: 2rem;
-    padding: 2rem 0 0 0;
+    padding: 2rem;
 }
 
 @media (max-width: 700px) {
