@@ -4,7 +4,7 @@
     font-family: "Playfair Display", serif;
     }
 .header{
-    min-height: 220vh;
+    min-height: 270vh;
     width: 100%;
     background-image: url(../Images/animated_background.svg);
     background-position: center;
@@ -33,7 +33,7 @@ nav pre {
 .nav-links ul li {
     list-style: none;
     display: inline-block;
-    padding: 12px 12px;
+    padding: 12px;
     position: relative;
 }
 .nav-links ul li a {
@@ -91,7 +91,7 @@ nav pre {
     flex-wrap: wrap;
     height: 4rem;
     border-spacing: 1rem;
-    margin: 0 1rem 0 1rem;
+    margin: 1rem;
     border: 2px #73503C;
     border-radius: 8px;
 }
@@ -107,13 +107,18 @@ article {
     padding: 1.2rem;
 }
 .listing img {
-    margin: 0 1rem 0 1rem;
+    width: 80%;
+    margin: 0.5rem;
     border: 2px #73503C;
     border-radius: 8px;
 }
+.listing figcaption {
+    font-size: 0.8rem;
+
+}
 .listing p {
     font-size: 1rem;
-    padding: 2rem 0 0 0;
+    padding: 1rem;
 }
 @media screen and (max-width: 796px) {
     .text-box h1{
@@ -126,7 +131,8 @@ article {
         display: block;
     }
     .listing{
-        top: 20rem;
+        top: 22rem;
+        align-items: center;
     }
     article {
         width: 100%;

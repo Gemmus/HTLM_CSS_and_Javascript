@@ -3,9 +3,8 @@
     padding: 0;
     font-family: "Playfair Display", serif;
     }
-
 .header{
-    min-height: 110vh;
+    min-height: 120vh;
     width: 100%;
     background-image: url(../Images/animated_background.svg);
     background-position: center;
@@ -34,7 +33,7 @@ nav pre {
 .nav-links ul li {
     list-style: none;
     display: inline-block;
-    padding: 12px 12px;
+    padding: 12px;
     position: relative;
 }
 .nav-links ul li a {
@@ -56,45 +55,68 @@ nav pre {
     width: 100%;
     background: #CFCCB9;
 }
-.text-box {
-    height: 50%;
-    width: 85%;
+.content {
+    height: 100%;
+    width: 100%;
     color: #403129;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    position: relative;
 }
-.text-box h1 {
+h1{
     font-size: 2.4rem;
-    padding: 2rem;
-    text-align: left;
+    padding: 2rem 2rem 1rem 6rem;
 }
-.quotation {
-    padding: 1rem 0 0 0;
-    font-size: 1.2rem;
-    font-style: italic;
+figure {
+    width: 50%;
+    height: 100%;
+    float: right;
+    padding: 0 6rem 0 2rem;
 }
-.address {
-    padding: 1rem 0 0 0;
-    font-size: 1.2rem;
-}
-aside {
-    width: 80%;
-    padding: 4rem 0 0 10rem;
-    text-align: right;
-}
-aside img{
-        margin: 0 1rem 1rem 0;
-    border: 1px black solid;
+figure img{
+    margin: 0 0 1rem 0;
+    border: 1px #403129;
     border-radius: 8px;
 }
-
-@media (max-width: 700px) {
+.quotation {
+    font-style: italic;
+    width: 50%;
+    padding: 7rem 0 2rem 5rem;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.address {
+    width: 50%;
+    padding: 2rem 0 0 11rem;
+    font-size: 1.2rem;
+}
+@media screen and (max-width: 796px) {
     .text-box h1{
-        font-size: 20px;
+        font-size: 2rem;
+    }
+    .text-box p {
+        font-size: 1rem;
     }
     .nav-links ul li {
         display: block;
+    }
+    .content{
+        width: 100%;
+    }
+    h1{
+        font-size: 1rem;
+    }
+    figure{
+        align-items: center;
+        padding: 0 9rem 0 0;
+    }
+    figure img {
+        width: 100%;
+    }
+    .quotation {
+        font-size: 0.8rem;
+        text-align: center;
+    }
+    .address {
+        font-size: 0.8rem;
+        text-align: center;
     }
 }
