@@ -8,14 +8,15 @@
 <h2>Font</h2>
 <p>Font is from <a href="https://fonts.google.com/specimen/Playfair+Display">Google Fonts. Name: Playfair Display</a></p>
 <pre>
-  @font-face {
-    font-family: "Playfair Display";
-    src: url(sensation_light.woff) format(woff);
-  }
+    in .css:
+    * {
+        font-family: "Playfair Display", serif;
+        }
 
-  body {
-    font-family: "Playfair Display";
-  }
+    in .html:
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
 </pre>
 <h2>Validation</h2>
 <p>

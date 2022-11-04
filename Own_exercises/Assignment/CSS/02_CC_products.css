@@ -6,6 +6,7 @@
 .header{
     min-height: 270vh;
     width: 100%;
+    position: relative;
     background-image: url(../Images/animated_background.svg);
     background-position: center;
     background-size: cover;
@@ -31,16 +32,16 @@ nav pre {
     text-align: right;
 }
 .nav-links ul li {
-    list-style: none;
+    position: relative;
     display: inline-block;
     padding: 12px;
-    position: relative;
+    list-style: none;
 }
 .nav-links ul li a {
     color: #403129;
-    text-decoration: none;
     font-size: 1.2rem;
     padding: 12px 22px;
+    text-decoration: none;
 }
 .nav-links ul li::after{
     content: '';
@@ -105,7 +106,7 @@ article {
 .listing h2 {
     font-size: 1.8rem;
     padding: 1.2rem;
-}
+}               /*in exercise, product1, 2, 3 h2 is text-align: left; I did not do it, because it looks better without*/
 .listing img {
     width: 80%;
     margin: 0.5rem;
