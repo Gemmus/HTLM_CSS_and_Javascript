@@ -10,7 +10,8 @@ const num3 = parseInt(number_3);
 let summary = num1 + num2 + num3
 let product = num1 * num2 * num3
 let average = (num1 + num2 + num3)/3
+let rounded_average = average.toFixed(1)
 
-document.querySelector('#addition').innerHTML = 'The summary of entered integers is ' + summary + '!';
-document.querySelector('#product').innerHTML = 'The product of entered integers is ' + product + '!';
-document.querySelector('#average').innerHTML = 'The average of entered integers is ' + average + '!';
+document.querySelector('#addition').innerHTML = 'The summary of the entered integers is ' + summary + '.';
+document.querySelector('#product').innerHTML = 'The product of the entered integers is ' + product + '.';
+document.querySelector('#average').innerHTML = 'The average of the entered integers is ' + rounded_average + '.';
