@@ -4,7 +4,7 @@ const number_2 = prompt('Please enter an integer: ');
 const number_3 = prompt('Please enter an integer: ');
 
 const num1 = parseInt(number_1);
-const num2= parseInt(number_2);
+const num2 = parseInt(number_2);
 const num3 = parseInt(number_3);
 
 let summary = num1 + num2 + num3
