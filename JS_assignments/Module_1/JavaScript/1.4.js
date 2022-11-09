@@ -1,5 +1,5 @@
 'use strict';
-const name = prompt('Please enter your name: ');
+const name = prompt('Please enter your name:');
 const number = Math.floor(Math.random()*4)+1;
 let house;
 // console.log(result)

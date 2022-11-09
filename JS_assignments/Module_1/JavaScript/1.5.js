@@ -1,7 +1,7 @@
 'use strict';
-let year = prompt('Please enter a year: ');
+let year = prompt('Please enter a year:');
 while (year < 0) {
-    year = prompt('Please enter a valid year: ');
+    year = prompt('Please enter a valid year:');
 }
 let Year = parseInt(year);
 if ((Year %= 4) === 0) {

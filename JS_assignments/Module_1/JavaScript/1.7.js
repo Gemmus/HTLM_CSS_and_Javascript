@@ -1,8 +1,8 @@
 'use strict';
-let numberOfDices = prompt('Please enter the number of dices: ');
+let numberOfDices = prompt('Please enter the number of dices:');
 
 while (numberOfDices < 0) {
-    numberOfDices = prompt('Please enter the valid number of dices: ');
+    numberOfDices = prompt('Please enter the valid number of dices:');
 }
 
 let number = parseInt(numberOfDices);
