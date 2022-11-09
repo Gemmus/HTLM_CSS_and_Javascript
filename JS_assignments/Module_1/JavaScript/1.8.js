@@ -4,7 +4,7 @@ let endYear = prompt('Please enter the ending year:');
 let start = parseInt(startYear);
 let end = parseInt(endYear);
 
-let list = []
+let list = [];
 while (start <= end) {
     if ((start % 4) === 0)
         if ((start % 100) !== 0)

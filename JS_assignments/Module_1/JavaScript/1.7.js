@@ -9,8 +9,8 @@ let number = parseInt(numberOfDices);
 let summary = 0;
 for ( let n = 0; n < number; n++) {
     let rolledNumber = Math.floor(Math.random()*6)+1;
-    console.log(rolledNumber)
-    summary += rolledNumber
+    console.log(rolledNumber);
+    summary += rolledNumber;
 }
 
 document.querySelector('#sumOfDices').innerHTML = 'The added value of the dices: ' + summary + '.';

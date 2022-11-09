@@ -4,15 +4,15 @@ const number = Math.floor(Math.random()*4)+1;
 let house;
 // console.log(result)
 if (number === 1) {
-    house = 'Daredevil'
+    house = 'Daredevil';
 }
 else if (number === 2) {
-    house = 'Slytherin'
+    house = 'Slytherin';
 }
 else if (number === 3) {
-    house = 'Hufflepuff'
+    house = 'Hufflepuff';
 }
 else {
-    house = 'Ravenclaw'
+    house = 'Ravenclaw';
 }
 document.querySelector('#house').innerHTML = ''+ name + ', you are ' + house + '.';

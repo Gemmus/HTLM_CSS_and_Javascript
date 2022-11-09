@@ -7,8 +7,8 @@ if (inquiry === true) {
         document.querySelector('#outcome').innerHTML = 'The square root of a negative number is not defined.';
     }
     else {
-        let number = parseInt(enteredNumber)
-        let squareRoot = number * number
+        let number = parseInt(enteredNumber);
+        let squareRoot = number * number;
         document.querySelector('#outcome').innerHTML = 'The square root of the number is: ' + squareRoot + '.';
     }
 }
