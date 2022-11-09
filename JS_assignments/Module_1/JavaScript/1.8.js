@@ -17,9 +17,10 @@ while (start <= end) {
 
 let ul = document.createElement('ul');
 
-for (let l of list) {
+for (let i of list) {
     let li = document.createElement('li');
-    li.innerText = l;
+    li.innerText = i;
     ul.append(li);
 }
+
 document.body.append(ul);
