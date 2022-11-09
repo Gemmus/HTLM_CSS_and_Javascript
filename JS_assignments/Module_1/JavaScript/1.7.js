@@ -13,4 +13,4 @@ for ( let n = 0; n < number; n++) {
     summary += rolledNumber
 }
 
-document.querySelector('#sumOfDices').innerHTML = 'The added value of the dices: ' + summary + '';
+document.querySelector('#sumOfDices').innerHTML = 'The added value of the dices: ' + summary + '.';
