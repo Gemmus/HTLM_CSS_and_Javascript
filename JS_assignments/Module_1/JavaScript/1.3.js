@@ -1,11 +1,7 @@
 'use strict';
-const number_1 = prompt('Please enter an integer:');
-const number_2 = prompt('Please enter an integer:');
-const number_3 = prompt('Please enter an integer:');
-
-const num1 = parseInt(number_1);
-const num2 = parseInt(number_2);
-const num3 = parseInt(number_3);
+const num1 = parseInt(prompt('Please enter an integer:'));
+const num2 = parseInt(prompt('Please enter an integer:'));
+const num3 = parseInt(prompt('Please enter an integer:'));
 
 const summary = num1 + num2 + num3;
 const product = num1 * num2 * num3;

@@ -1,8 +1,6 @@
 'use strict';
-let startYear = prompt('Please enter the starting year:');
-let endYear = prompt('Please enter the ending year:');
-let start = parseInt(startYear);
-let end = parseInt(endYear);
+let start = parseInt(prompt('Please enter the starting year:'));
+let end = parseInt(prompt('Please enter the ending year:'));
 
 let list = [];
 while (start <= end) {
