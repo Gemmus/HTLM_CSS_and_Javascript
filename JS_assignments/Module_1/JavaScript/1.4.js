@@ -2,7 +2,7 @@
 const name = prompt('Please enter your name:');
 const number = Math.floor(Math.random()*4)+1;
 let house;
-// console.log(result)
+console.log(result)
 if (number === 1)
     house = 'Daredevil';
 else if (number === 2)
