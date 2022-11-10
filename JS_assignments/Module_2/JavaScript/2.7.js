@@ -5,8 +5,7 @@ function roleDice(side) {
 }
 
 let rolled_numbers = [];
-let number_of_sides = prompt('How many sides does you dice have?');
-let sides = parseInt(number_of_sides);
+let sides = parseInt(prompt('How many sides does you dice have?'));
 let number = roleDice(sides);
 rolled_numbers.push(number);
 while (number !== sides) {

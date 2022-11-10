@@ -7,6 +7,7 @@ function even(numbers) {
             even_numbers.push(numbers[i]);
         }
     }
+    even_numbers.sort((a,b) => a-b);
     return even_numbers;
 }
 
