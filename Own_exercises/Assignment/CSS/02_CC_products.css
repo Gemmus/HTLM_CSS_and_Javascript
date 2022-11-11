@@ -10,7 +10,6 @@
     background-image: url(../Images/animated_background.svg);
     background-position: center;
     background-size: cover;
-    position: relative;
 }
 nav {
     display: flex;
@@ -68,7 +67,7 @@ nav pre {
 }
 .text-box h1 {
     font-size: 3rem;
-    padding: 1rem 0 1.4rem 2rem;
+    padding: 1rem 0 2rem 2rem;
     text-align: left;
 }
 .text-box img{
@@ -83,8 +82,8 @@ nav pre {
 }
 .listing {
     position: relative;
-    top: 46rem;
-    padding: 1rem;
+    top: 52rem;
+    padding: 2rem;
     justify-content: space-between;
     align-items: center;
     color: #4f3e31;
