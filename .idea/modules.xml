@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../HTLM_and_CSS/.idea/HTLM_and_CSS.iml" filepath="$PROJECT_DIR$/../HTLM_and_CSS/.idea/HTLM_and_CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HTLM_CSS_and_Javascript.iml" filepath="$PROJECT_DIR$/.idea/HTLM_CSS_and_Javascript.iml" />
     </modules>
   </component>
 </project>
