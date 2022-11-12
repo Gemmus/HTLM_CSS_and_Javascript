@@ -1,7 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Project name changed.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/DOM/example1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/DOM/example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.10.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.11.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/basketball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/cafeteria.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/certificate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/library.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/london.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/newyork.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/user1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/user2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/washington.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/tutorial1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/tutorial1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS1/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS1/example1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS2/css/style2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS2/example2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS3/css/style3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS3/example3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS4/css/style4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS4/css/style5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS4/example4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/CSS4/example5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/HTML1/css/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/School_examples/HTML1/example1.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HR441q8WElvatE1SUo7QJSSj9S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="" />
+      <created>1668234367013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668234367013</updated>
+      <workItem from="1668234372674" duration="11884000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project name changed.">
+      <created>1668234454933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668234454934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project name changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project name changed." />
   </component>
 </project>
