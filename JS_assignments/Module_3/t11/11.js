@@ -105,7 +105,6 @@ img1.src= picArray[0].image.medium;
 img1.alt = picArray[0].title;
 figcaption1.innerText = picArray[0].caption;
 p1.innerText = picArray[0].description;
-console.log(article1)
 section.appendChild(article1);
 article1.appendChild(h21);
 article1.appendChild(figure1);
@@ -190,16 +189,46 @@ figure5.appendChild(figcaption5);
 article5.appendChild(p5);
 article5.setAttribute('class', "card");
 
-const modalBtn = document.querySelector('dialog');
-const closeBtn = document.querySelector('span')
-const img = document.querySelector('img');
+// Creation of dialog, span, img:
+const createDialog = document.createElement('dialog');
+const createSpan = document.createElement('span');
+createSpan.innerText = 'X';
+const createImgLarge = document.createElement('img');
+const body = document.querySelector('body');
+createDialog.appendChild(createSpan);
+createDialog.appendChild(createImgLarge);
+body.appendChild(createDialog);
 
-article1.addEventListener('click', function (){
-      modalBtn.showModal();
-      modalBtn.style.display = 'block';
-      img.src = picArray[0].image.large;
-      img.alt = picArray[0].title;
+// Click function:
+const dialog = document.querySelector('dialog');
+const span = document.querySelector('span');
+const imgLarge = document.querySelectorAll('img')[5];
+
+span.addEventListener('click', function(){
+    dialog.close();
 })
-closeBtn.addEventListener('click', function(){
-
+article1.addEventListener('click', function (){
+      imgLarge.src = picArray[0].image.large;
+      imgLarge.alt = picArray[0].title;
+      dialog.showModal();
+})
+article2.addEventListener('click', function (){
+      imgLarge.src = picArray[1].image.large;
+      imgLarge.alt = picArray[1].title;
+      dialog.showModal();
+})
+article3.addEventListener('click', function (){
+      imgLarge.src = picArray[2].image.large;
+      imgLarge.alt = picArray[2].title;
+      dialog.showModal();
+})
+article4.addEventListener('click', function (){
+      imgLarge.src = picArray[3].image.large;
+      imgLarge.alt = picArray[3].title;
+      dialog.showModal();
+})
+article5.addEventListener('click', function (){
+      imgLarge.src = picArray[4].image.large;
+      imgLarge.alt = picArray[4].title;
+      dialog.showModal();
 })

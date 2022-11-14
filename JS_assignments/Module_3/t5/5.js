@@ -105,7 +105,6 @@ img1.src = picArray[0].image.medium;
 img1.alt = picArray[0].title;
 figcaption1.innerText = picArray[0].caption;
 p1.innerText = picArray[0].description;
-console.log(article1)
 section.appendChild(article1);
 article1.appendChild(h21);
 article1.appendChild(figure1);
