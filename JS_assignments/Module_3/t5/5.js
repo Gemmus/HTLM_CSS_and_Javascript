@@ -92,4 +92,100 @@ const picArray = [
   },
 ];
 
-// add your code here
+const section = document.querySelector('#pictures');
+
+const article1 = document.createElement("article");
+const h21 = document.createElement("h2");
+const figure1 = document.createElement("figure");
+const img1 = document.createElement("img");
+const figcaption1 = document.createElement("figcaption");
+const p1 = document.createElement("p");
+h21.innerText = picArray[0].title;
+img1.src="thumbnails/pic1.jpg";
+img1.alt = picArray[0].title;
+figcaption1.innerText = picArray[0].caption;
+p1.innerText = picArray[0].description;
+console.log(article1)
+section.appendChild(article1);
+article1.appendChild(h21);
+article1.appendChild(figure1);
+figure1.appendChild(img1);
+figure1.appendChild(figcaption1);
+article1.appendChild(p1);
+article1.setAttribute('class', "card");
+
+const article2 = document.createElement("article");
+const h22 = document.createElement("h2");
+const figure2 = document.createElement("figure");
+const img2 = document.createElement("img");
+const figcaption2 = document.createElement("figcaption");
+const p2 = document.createElement("p");
+h22.innerText = picArray[1].title;
+img2.src="thumbnails/pic2.jpg";
+img2.alt = picArray[1].title;
+figcaption2.innerText = picArray[1].caption;
+p2.innerText = picArray[1].description;
+section.appendChild(article2);
+article2.appendChild(h22);
+article2.appendChild(figure2);
+figure2.appendChild(img2);
+figure2.appendChild(figcaption2);
+article2.appendChild(p2);
+article2.setAttribute('class', "card");
+
+const article3 = document.createElement("article");
+const h23 = document.createElement("h2");
+const figure3 = document.createElement("figure");
+const img3 = document.createElement("img");
+const figcaption3 = document.createElement("figcaption");
+const p3 = document.createElement("p");
+h23.innerText = picArray[2].title;
+img3.src="thumbnails/pic3.jpg";
+img3.alt = picArray[2].title;
+figcaption3.innerText = picArray[2].caption;
+p3.innerText = picArray[2].description;
+section.appendChild(article3);
+article3.appendChild(h23);
+article3.appendChild(figure3);
+figure3.appendChild(img3);
+figure3.appendChild(figcaption3);
+article3.appendChild(p3);
+article3.setAttribute('class', "card");
+
+const article4 = document.createElement("article");
+const h24 = document.createElement("h2");
+const figure4 = document.createElement("figure");
+const img4 = document.createElement("img");
+const figcaption4 = document.createElement("figcaption");
+const p4 = document.createElement("p");
+h24.innerText = picArray[3].title;
+img4.src="thumbnails/pic4.jpg";
+img4.alt = picArray[3].title;
+figcaption4.innerText = picArray[3].caption;
+p4.innerText = picArray[3].description;
+section.appendChild(article4);
+article4.appendChild(h24);
+article4.appendChild(figure4);
+figure4.appendChild(img4);
+figure4.appendChild(figcaption4);
+article4.appendChild(p4);
+article4.setAttribute('class', "card");
+
+const article5 = document.createElement("article");
+const h25 = document.createElement("h2");
+const figure5 = document.createElement("figure");
+const img5 = document.createElement("img");
+const figcaption5 = document.createElement("figcaption");
+const p5 = document.createElement("p");
+h25.innerText = picArray[4].title;
+img5.src="thumbnails/pic5.jpg";
+img5.alt = picArray[4].title;
+figcaption5.innerText = picArray[4].caption;
+p5.innerText = picArray[4].description;
+section.appendChild(article5);
+article5.appendChild(h25);
+article5.appendChild(figure5);
+figure5.appendChild(img5);
+figure5.appendChild(figcaption5);
+article5.appendChild(p5);
+article5.setAttribute('class', "card");

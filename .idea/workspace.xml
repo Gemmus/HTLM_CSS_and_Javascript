@@ -1,60 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Project name changed.">
+    <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Initial upload.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/DOM/example1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/DOM/example1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.10.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/3.9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.10.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.11.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/DOM/example4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/JavaScript/3.9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/banner2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/basketball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/cafeteria.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/certificate.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/library.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/london.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/newyork.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/user1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/user2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/Images/washington.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/tutorial1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Tutorial1/tutorial1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS1/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS1/example1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS2/css/style2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS2/example2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS3/css/style3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS3/example3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS4/css/style4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS4/css/style5.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS4/example4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/CSS4/example5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/HTML1/css/style1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/School_examples/HTML1/example1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t10/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t10/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t2/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t2/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t3/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t3/3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t4/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t4/4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t5/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t5/5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t6/6.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t6/6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t7/7.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t7/7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t8/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t8/8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t8/8.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t8/8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t9/9.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t9/9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,15 +43,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -100,7 +60,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668234367013</updated>
-      <workItem from="1668234372674" duration="11884000" />
+      <workItem from="1668234372674" duration="25294000" />
+      <workItem from="1668342661325" duration="6250000" />
+      <workItem from="1668406598296" duration="10778000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
@@ -109,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668234454934</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial upload.">
+      <created>1668250331260</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668250331260</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial upload.">
+      <created>1668250374070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668250374070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project name changed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Project name changed." />
+    <MESSAGE value="Initial upload." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial upload." />
   </component>
 </project>
