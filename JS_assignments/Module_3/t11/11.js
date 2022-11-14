@@ -101,7 +101,7 @@ const img1 = document.createElement("img");
 const figcaption1 = document.createElement("figcaption");
 const p1 = document.createElement("p");
 h21.innerText = picArray[0].title;
-img1.src = picArray[0].image.medium;
+img1.src= picArray[0].image.medium;
 img1.alt = picArray[0].title;
 figcaption1.innerText = picArray[0].caption;
 p1.innerText = picArray[0].description;
@@ -121,7 +121,7 @@ const img2 = document.createElement("img");
 const figcaption2 = document.createElement("figcaption");
 const p2 = document.createElement("p");
 h22.innerText = picArray[1].title;
-img2.src = picArray[1].image.medium;
+img2.src=picArray[1].image.medium;
 img2.alt = picArray[1].title;
 figcaption2.innerText = picArray[1].caption;
 p2.innerText = picArray[1].description;
@@ -140,7 +140,7 @@ const img3 = document.createElement("img");
 const figcaption3 = document.createElement("figcaption");
 const p3 = document.createElement("p");
 h23.innerText = picArray[2].title;
-img3.src = picArray[2].image.medium;
+img3.src= picArray[2].image.medium;
 img3.alt = picArray[2].title;
 figcaption3.innerText = picArray[2].caption;
 p3.innerText = picArray[2].description;
@@ -189,3 +189,17 @@ figure5.appendChild(img5);
 figure5.appendChild(figcaption5);
 article5.appendChild(p5);
 article5.setAttribute('class', "card");
+
+const modalBtn = document.querySelector('dialog');
+const closeBtn = document.querySelector('span')
+const img = document.querySelector('img');
+
+article1.addEventListener('click', function (){
+      modalBtn.showModal();
+      modalBtn.style.display = 'block';
+      img.src = picArray[0].image.large;
+      img.alt = picArray[0].title;
+})
+closeBtn.addEventListener('click', function(){
+
+})
