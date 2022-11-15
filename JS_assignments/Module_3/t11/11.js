@@ -92,6 +92,7 @@ const picArray = [
   },
 ];
 
+// Creating the articles:
 const section = document.querySelector('#pictures');
 
 const article1 = document.createElement("article");

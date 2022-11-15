@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Initial upload.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t10/10.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t10/10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t2/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t2/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t3/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t3/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t4/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t4/4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t5/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t5/5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t6/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t6/6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t7/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t7/7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t8/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t8/8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t9/9.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t9/9.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,17 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/JS_assignments/Module_3/t11",
-    "list.type.of.created.stylesheet": "CSS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/JS_assignments/Module_3/t11&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_3\t11" />
@@ -59,6 +71,8 @@
       <workItem from="1668234372674" duration="25294000" />
       <workItem from="1668342661325" duration="6250000" />
       <workItem from="1668406598296" duration="23040000" />
+      <workItem from="1668447794939" duration="3000" />
+      <workItem from="1668488394780" duration="1619000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
