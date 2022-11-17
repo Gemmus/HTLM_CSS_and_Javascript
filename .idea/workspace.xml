@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Comments added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/4.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/JavaScript/4.1.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -32,20 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/JS_assignments/Module_3/t11&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/JS_assignments/Module_4/Step4",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_4\Step4" />
       <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_3\t11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_4\Step1" />
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +68,10 @@
       <workItem from="1668342661325" duration="6250000" />
       <workItem from="1668406598296" duration="23040000" />
       <workItem from="1668447794939" duration="3000" />
-      <workItem from="1668488394780" duration="2828000" />
+      <workItem from="1668488394780" duration="4508000" />
+      <workItem from="1668512809057" duration="191000" />
+      <workItem from="1668513171907" duration="9989000" />
+      <workItem from="1668595595730" duration="46348000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
@@ -111,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668490139559</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Comments added.">
+      <created>1668491970395</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668491970395</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
