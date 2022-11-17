@@ -1,31 +1,26 @@
 * {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Nuosu SIL', serif;
 }
 
 body {
-  background-image: url(animated_background.svg);
+  background-image: url('background.jpg');
 }
 
 h1 {
-  margin-top: 0;
+  margin-top: 1rem;
   margin-bottom: 1rem;
-  margin-left: 1rem;
-  font-size: 2.5rem;
+  margin-left: 8rem;
+  font-size: 3rem;
   font-weight: normal;
   display: inline-block;
-  font-family: 'Rubik Glitch', cursive;
-  color: #251602;
-  text-shadow: 2px 2px 0 #bdbbbb;
-}
-
-body {
-  padding: 1rem;
-  margin: 1rem;
+  color: #a98469;
+  text-shadow: 2px 2px 0 #3a2e24;
+  padding-top: 0.4rem;
 }
 
 input {
     font-size: 16px;
-    margin-left: 1rem;
+    margin-left: 3.2rem;
     margin-bottom: 1.1rem;
     border-radius: 3px;
     padding: 0.4rem;
@@ -33,20 +28,20 @@ input {
 }
 
 button {
-  background-color: #251602;
-  color: floralwhite;
+  background-color: #ffffff;
+  color: #1a1a1a;
   border: none;
   padding: 0.5rem;
-  font-size: 12px;
+  font-size: 14px;
   border-radius: 3px;
   cursor: pointer;
   outline: none;
-  box-shadow: 2px 2px 0 #cecece;
-  margin-bottom: 10px;
-  margin-left: 1rem;
+  box-shadow: 2px 2px 0 #ab8868;
+  margin: 3.75rem 28.2rem 1rem 0;
   transition: opacity .4s ease-out, transform .4s ease-out, visibility .4s ease-out;
   position: relative;
   top: -10px;
+  float: right;
 }
 
 button:hover {
@@ -54,7 +49,7 @@ button:hover {
 }
 
 button:active {
-  background-color: #7a5e5e;
+  background-color: #8c8c8c;
   box-shadow: none;
   position: relative;
   top: -8px;
@@ -63,25 +58,28 @@ button:active {
 
 article {
   box-sizing: border-box;
-  border: 1px #000000 solid;
-  padding: 1rem 1rem 2rem 1.4rem;
-  margin: 1rem 1rem 1rem 2rem;
+  border: 1px #bbafaf solid;
+  padding: 1.8rem 2rem 2rem 3rem;
+  margin: 1rem 6rem 1rem 6rem;
   border-radius: 6px;
   box-shadow: 3px 6px 6px #afa1a1;
+  background-color: rgba(255, 255, 255, 0.92);
 }
 
 h2 {
   font-size: 1.7rem;
-  padding: 0 0.2rem 0.4rem 0.4rem;
+  padding: 0 0 0.2rem 0.4rem;
   margin-top: 0;
   margin-bottom: 0;
 }
+
 h3 {
   font-size: 0.9rem;
-  padding: 0 0 0 0.4rem;
+  padding: 0.3rem 0 0.2rem 0.4rem;
   margin-top: 0;
   margin-bottom: 0.4rem;
 }
+
 img{
   box-sizing: border-box;
   box-shadow: 3px 6px 6px #afa1a1;
@@ -89,18 +87,19 @@ img{
 }
 
 p {
-  padding: 4px 0 4px 4px;
-  line-height: 1.5;
+  padding: 4px 0 8px 4px;
+  line-height: 1.2;
   margin: 0;
-  width: 90%;
+  width: 95%;
+  font-size: 1rem;
 }
 
 a {
-  background-color: #251602;
+  background-color: #000000;
   color: floralwhite;
   border: none;
-  padding: 0.3rem;
-  font-size: 13px;
+  padding: 0.3rem 0.5rem;
+  font-size: 1rem;
   border-radius: 3px;
   cursor: pointer;
   outline: none;
@@ -110,6 +109,28 @@ a {
   position: relative;
   text-decoration: none;
 }
+
 a:hover {
   background-color: #c5c5c5;
+  color: #1a1a1a;
+  transition: 1s;
+}
+
+@media screen and (max-width: 796px) {
+  h1 {
+    alignment: center;
+  }
+  input {
+    alignment: center;
+    width: 12rem;
+  }
+  button {
+    alignment: center;
+    margin: 0.8rem;
+  }
+  article {
+    alignment: center;
+    width: 100%;
+    margin: 1rem;
+  }
 }

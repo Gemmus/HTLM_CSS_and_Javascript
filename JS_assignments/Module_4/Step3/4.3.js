@@ -1,7 +1,7 @@
 'use strict';
 const search = document.getElementById('search');
 search.addEventListener('click', function () {
-    let division = document.getElementById('result')
+    let division = document.getElementById('result');
     division.innerHTML = '';
     const input = document.getElementById('input').value;
     console.log(input);
@@ -26,7 +26,7 @@ function appendHTML(data) {
     let div = document.getElementById('result');
     for (let i = 0; i < data.length; i++) {
         let article = document.createElement("article");
-        div.appendChild(article)
+        div.appendChild(article);
         let h2 = document.createElement('h2');
         h2.innerText = data[i].show.name;
         article.append(h2);
@@ -34,7 +34,7 @@ function appendHTML(data) {
         let genre = '';
         for (let ii = 0; ii < data[i].show.genres.length; ii++) {
             if (ii === 0) {
-                genre += data[i].show.genres[ii] ;
+                genre += data[i].show.genres[ii];
             } else {
                 genre += ' | ' + data[i].show.genres[ii];
             }
