@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Initial upload.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_1/JavaScript/1.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_1/JavaScript/1.4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_2/2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_2/JavaScript/2.5.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_2/JavaScript/2.5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_2/JavaScript/2.8.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_2/JavaScript/2.8.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <workItem from="1668512809057" duration="191000" />
       <workItem from="1668513171907" duration="9989000" />
       <workItem from="1668595595730" duration="57712000" />
-      <workItem from="1668749897384" duration="12444000" />
+      <workItem from="1668749897384" duration="15447000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668703842568</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Initial upload.">
+      <created>1668763528765</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668763528765</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

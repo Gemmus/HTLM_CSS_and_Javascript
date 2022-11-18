@@ -9,5 +9,6 @@ function concat(items){
 }
 
 let list = ['CaptainAmerica', 'IronMan', 'Thor', 'Hulk', 'BlackWidow', 'Hawkeye'];
+console.log(list)
 let result = concat(list);
 document.querySelector('#concatenated').innerHTML = result;
