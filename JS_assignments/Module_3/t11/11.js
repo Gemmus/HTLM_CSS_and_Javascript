@@ -193,7 +193,7 @@ article5.setAttribute('class', "card");
 // Creation of dialog, span, img:
 const createDialog = document.createElement('dialog');
 const createSpan = document.createElement('span');
-createSpan.innerText = 'X';
+createSpan.innerHTML = '&times;';
 const createImgLarge = document.createElement('img');
 const body = document.querySelector('body');
 createDialog.appendChild(createSpan);

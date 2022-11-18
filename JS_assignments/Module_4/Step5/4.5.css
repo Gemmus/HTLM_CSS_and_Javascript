@@ -1,0 +1,178 @@
+* {
+    font-family: 'Nuosu SIL', serif;
+}
+
+body {
+    background-image: url('background.jpg');
+}
+
+h1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 8rem;
+    font-size: 3rem;
+    font-weight: normal;
+    display: inline-block;
+    color: #a98469;
+    text-shadow: 2px 2px 0 #3a2e24;
+    padding-top: 0.4rem;
+}
+
+input {
+    font-size: 16px;
+    margin-left: 3.2rem;
+    margin-bottom: 1.1rem;
+    border-radius: 3px;
+    padding: 0.4rem;
+    width: 30rem;
+}
+
+button {
+    background-color: #ffffff;
+    color: #1a1a1a;
+    border: none;
+    padding: 0.5rem;
+    font-size: 14px;
+    border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+    box-shadow: 2px 2px 0 #ab8868;
+    margin: 3.75rem 28.2rem 1rem 0;
+    transition: opacity .4s ease-out, transform .4s ease-out, visibility .4s ease-out;
+    position: relative;
+    top: -10px;
+    float: right;
+}
+
+button:hover {
+    background-color: #c5c5c5;
+}
+
+button:active {
+    background-color: #8c8c8c;
+    box-shadow: none;
+    position: relative;
+    top: -8px;
+    left: 2px;
+}
+
+article {
+    box-sizing: border-box;
+    border: 1px #bbafaf solid;
+    padding: 1.8rem 2rem 3rem 3rem;
+    margin: 1rem 6rem 1rem 6rem;
+    border-radius: 6px;
+    box-shadow: 3px 6px 6px #afa1a1;
+    background-color: rgba(255, 255, 255, 0.92);
+}
+
+h2 {
+    font-size: 1.7rem;
+    padding: 0 0 0.2rem 0.4rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 0.9rem;
+    padding: 0.3rem 0 0.2rem 0.4rem;
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+}
+
+img {
+    box-sizing: border-box;
+    box-shadow: 3px 6px 6px #afa1a1;
+    margin-left: 0.4rem;
+}
+
+p {
+    padding: 0.3rem 0.3rem 0.7rem 0.3rem;
+    line-height: 1.2;
+    margin: 0;
+    width: 95%;
+    font-size: 1rem;
+}
+
+.siteBtn {
+    background-color: #000000;
+    color: floralwhite;
+    border: none;
+    padding: 0.3rem 0.5rem;
+    font-size: 1rem;
+    border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+    box-shadow: 2px 2px 0 #cecece;
+    margin: 0 0 0 0.3rem;
+    float: left;
+    transition: opacity .4s ease-out, transform .4s ease-out, visibility .4s ease-out;
+    position: relative;
+    text-decoration: none;
+}
+
+.siteBtn:hover {
+    background-color: #c5c5c5;
+    color: #1a1a1a;
+    transition: 1s;
+}
+
+dialog {
+    transition: all 0.5s ease-in-out;
+    box-sizing: border-box;
+    border: 1px #bbafaf solid;
+    border-radius: 6px;
+    box-shadow: 3px 6px 6px #000000;
+    background-color: rgb(218, 219, 217);
+}
+
+dialog[open] {
+    opacity: 1;
+}
+
+dialog::backdrop {
+    background: rgb(0 0 0 / 0.8);
+}
+
+dialog span {
+    position: absolute;
+    top: 2rem;
+    right: 3rem;
+    border: 1px #1a1a1a solid;
+    border-radius: 6px;
+    font-size: 1.6rem;
+    text-decoration: none;
+    color: #fffefe;
+    background-color: #000000;
+    filter: drop-shadow(2px 2px 2px #2f2f2f);
+}
+
+@media screen and (max-width: 796px) {
+    h1 {
+        alignment: center;
+    }
+    input {
+        alignment: center;
+        width: 12rem;
+    }
+    button {
+        alignment: center;
+        margin: 0.8rem;
+    }
+    article {
+        alignment: center;
+        width: 100%;
+        margin: 1rem;
+    }
+    dialog {
+        width: 80%;
+        margin: 1rem;
+        alignment: center;
+    }
+    dialog span {
+        font-size: 1.2rem;
+    }
+    iframe {
+        width: 100%;
+    }
+}

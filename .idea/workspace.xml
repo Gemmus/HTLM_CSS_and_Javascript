@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Initial upload.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step3/4.3_genre_added.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step3/4.3_genre_added.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step3/4.3_genre_added.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step4/4.4.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_4/Step4/4.4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step4/4.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_4/Step4/4.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step4/4.4.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_4/Step4/4.4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step4/animated_background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_4/Step5/4.5.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +43,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/JS_assignments/Module_4/Step4",
+    "last_opened_file_path": "C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/JS_assignments/Module_4/Step5",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_4\Step5" />
       <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_4\Step4" />
       <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_3\t11" />
     </key>
@@ -76,7 +74,8 @@
       <workItem from="1668488394780" duration="4508000" />
       <workItem from="1668512809057" duration="191000" />
       <workItem from="1668513171907" duration="9989000" />
-      <workItem from="1668595595730" duration="57418000" />
+      <workItem from="1668595595730" duration="57712000" />
+      <workItem from="1668749897384" duration="12444000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
@@ -148,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668690903759</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Initial upload.">
+      <created>1668703842568</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668703842568</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
