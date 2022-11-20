@@ -54,6 +54,7 @@ html, body {
     padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: var(--white);
+    scroll-behavior: smooth;
 }
 
 .container {
@@ -148,6 +149,7 @@ main {
     filter: drop-shadow(0 0 30px #333);
     transform: rotate(340deg);
     line-height: 1rem;
+    z-index: 999;
 }
 
 .goal h2, .goal p{
@@ -159,6 +161,7 @@ main {
     background-color: rgba(0, 0, 0, 0.8);
     position: absolute;
     top: 0;
+    z-index: 9999;
 }
 
 #player-form {
@@ -209,4 +212,17 @@ main {
         box-sizing: border-box;
     }
 
+}
+
+/* Leaflet icons */
+.blue-icon {
+    background-color: #2474ff;
+    border-radius: 50%;
+    border: 5px solid rgba(255, 255, 255, 0.5);
+}
+
+.green-icon {
+    background-color: #27ba35;
+    border-radius: 50%;
+    border: 5px solid rgba(255, 255, 255, 0.5);
 }

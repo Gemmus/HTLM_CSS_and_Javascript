@@ -3,37 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Initial upload.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/1.4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/01_CC_home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/01_CC_home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/02_CC_products.html" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/02_CC_products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/03_CC_contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/03_CC_contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/CSS/01_CC_home.css" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/CSS/01_CC_home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/CSS/02_CC_products.css" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/CSS/02_CC_products.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/CSS/03_CC_contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/CSS/03_CC_contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/animated_background.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/animated_background.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/contrast1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/contrast1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/contrast2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/contrast2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/contrast3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/contrast3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/cp_product.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/cp_product.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/font.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/font.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/lighthouse1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/lighthouse1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/lighthouse2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/lighthouse2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/lighthouse3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/lighthouse3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/logo2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/page1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/page1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/product1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/product1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/product2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/product2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/product3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/product3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/validator1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/validator1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/validator2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/validator2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Images/validator3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Images/validator3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/Result/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/Result/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/Assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Own_exercises/Website_assignment/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-starter-HTML-main/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-starter-HTML-main/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/game-starter-HTML-main/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game-starter-HTML-main/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/game-starter-HTML-main/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game-starter-HTML-main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/game-starter-HTML-main/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game-starter-HTML-main/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/game-starter-HTML-main/js/main.js" afterDir="false" />
@@ -117,7 +86,7 @@
       <workItem from="1668926798213" duration="60000" />
       <workItem from="1668926926288" duration="115000" />
       <workItem from="1668927089607" duration="666000" />
-      <workItem from="1668927767803" duration="2926000" />
+      <workItem from="1668927767803" duration="17260000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
@@ -217,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668768695623</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Initial upload.">
+      <created>1668930914498</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668930914498</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
