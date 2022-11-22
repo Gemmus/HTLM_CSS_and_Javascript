@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Initial upload.">
-      <change afterPath="$PROJECT_DIR$/FlightGame_final/CSS/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/CSS/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/JavaScript/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/JavaScript/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightGame_final/CSS/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/CSS/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightGame_final/CSS/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/CSS/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FlightGame_final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-starter-HTML-main/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/game-starter-HTML-main/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,23 +35,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/FlightGame_final/Images",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/FlightGame_final/Images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\FlightGame_final\Images" />
@@ -91,7 +88,10 @@
       <workItem from="1668926926288" duration="115000" />
       <workItem from="1668927089607" duration="666000" />
       <workItem from="1668927767803" duration="17269000" />
-      <workItem from="1669008696244" duration="30581000" />
+      <workItem from="1669008696244" duration="31450000" />
+      <workItem from="1669096670145" duration="3437000" />
+      <workItem from="1669102635356" duration="4580000" />
+      <workItem from="1669126182873" duration="3832000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668948715635</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Initial upload.">
+      <created>1669049735499</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669049735499</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
