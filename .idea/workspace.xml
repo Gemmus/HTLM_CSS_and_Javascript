@@ -5,7 +5,17 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FlightGame_final/CSS/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/CSS/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FlightGame_final/CSS/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/CSS/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightGame_final/Images/1919594.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightGame_final/Images/2258513.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightGame_final/JavaScript/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/JavaScript/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightGame_final/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FlightGame_final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/CSS/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/CSS/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/Images/about_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/Images/logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +52,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/FlightGame_final/Images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gemma/Desktop/Software_2/HTLM_CSS_and_Javascript/FairWT/testdata&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   },
@@ -54,12 +64,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\FlightGame_final\Images" />
-      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_4\Step5" />
-      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_4\Step4" />
-      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_3\t11" />
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\FairWT\testdata" />
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\FairWT\CSS" />
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\FairWT" />
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\FariWT" />
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\FlightGame_final" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\FairWT" />
+      <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript" />
       <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_4\Step1" />
       <recent name="C:\Users\Gemma\Desktop\Software_2\HTLM_CSS_and_Javascript\JS_assignments\Module_4" />
     </key>
@@ -91,7 +104,21 @@
       <workItem from="1669008696244" duration="31450000" />
       <workItem from="1669096670145" duration="3437000" />
       <workItem from="1669102635356" duration="4580000" />
-      <workItem from="1669126182873" duration="3832000" />
+      <workItem from="1669126182873" duration="15516000" />
+      <workItem from="1669453887516" duration="7026000" />
+      <workItem from="1669471892470" duration="1647000" />
+      <workItem from="1669531481573" duration="462000" />
+      <workItem from="1669533851353" duration="36078000" />
+      <workItem from="1669710446236" duration="3127000" />
+      <workItem from="1669715400420" duration="46000" />
+      <workItem from="1669724033740" duration="407000" />
+      <workItem from="1669726689616" duration="547000" />
+      <workItem from="1669812869841" duration="60000" />
+      <workItem from="1669813575406" duration="5000" />
+      <workItem from="1669813614912" duration="3000" />
+      <workItem from="1669873377900" duration="615000" />
+      <workItem from="1669890406222" duration="2152000" />
+      <workItem from="1669892639494" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
@@ -212,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669049735499</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Initial upload.">
+      <created>1669130056796</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1669130056796</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
