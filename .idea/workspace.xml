@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Initial upload.">
+    <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Fixes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t2/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t2/2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t4/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t4/4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t11/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t5/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t5/5.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
       <workItem from="1669890406222" duration="2152000" />
       <workItem from="1669892639494" duration="20000" />
       <workItem from="1669897125041" duration="398000" />
-      <workItem from="1670219891088" duration="1607000" />
+      <workItem from="1670219891088" duration="4115000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
@@ -245,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669897158922</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Fixes.">
+      <created>1670221544305</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670221544305</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +276,7 @@
     <MESSAGE value="Project name changed." />
     <MESSAGE value="Comments added." />
     <MESSAGE value="Initial upload." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial upload." />
+    <MESSAGE value="Fixes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes." />
   </component>
 </project>
