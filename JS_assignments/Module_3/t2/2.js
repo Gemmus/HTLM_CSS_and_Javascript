@@ -9,4 +9,4 @@ li3.innerText = 'Third item';
 ul.appendChild(li1);
 ul.appendChild(li2);
 ul.appendChild(li3);
-ul.setAttribute('class', 'my-item');
+li2.setAttribute('class', 'my-item');

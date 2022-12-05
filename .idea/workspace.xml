@@ -3,19 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4f90294b-ad13-4c05-b485-5c067bb2e593" name="Changes" comment="Initial upload.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/CSS/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/CSS/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/CSS/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/CSS/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/Images/1919594.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/Images/2258513.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/JavaScript/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/JavaScript/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlightGame_final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FlightGame_final/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/CSS/about.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/CSS/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/Images/about_picture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/Images/logo.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Own_exercises/FLight_game_front-end/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t1/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t2/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t2/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS_assignments/Module_3/t4/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS_assignments/Module_3/t4/4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +109,8 @@
       <workItem from="1669873377900" duration="615000" />
       <workItem from="1669890406222" duration="2152000" />
       <workItem from="1669892639494" duration="20000" />
+      <workItem from="1669897125041" duration="398000" />
+      <workItem from="1670219891088" duration="1607000" />
     </task>
     <task id="LOCAL-00001" summary="Project name changed.">
       <created>1668234454933</created>
@@ -246,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669130056796</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Initial upload.">
+      <created>1669897158922</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1669897158922</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
